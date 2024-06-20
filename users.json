@@ -2,11 +2,15 @@
     "channels": [
         {
             "channel": "vedal987",
-            "message": "ALERTA Tutel ALERTA"
+            "message": "[bot message] ALERTA Tutel ALERTA VEDAL IS HERE"
         },
         {
             "channel": "xxstaz",
-            "message": "hi staz"
+            "message": "[bot message] hi staz"
+        },
+        {
+            "channel": "secretneuroaccount",
+            "message": "[bot message] ALERTA Tutel ALERTA VEDAL IS HERE VIA @secretneuroaccount"
         }
     ]
 }

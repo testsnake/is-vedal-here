@@ -20,6 +20,7 @@ const client = new tmi.Client({
 client.connect();
 
 client.on("join", (channel, username, self) => {
+    console.log(`USER ${username} JOINED`);
     warningUsers.forEach(user => {
         if (user.channel === username) {
             client.say(channel, user.message);
